@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's degree candidate at the School of Automotive Engineering of Tongji university. I obtained my bachelor's degree from Central South University in 2018. My research field includes vehicle motion prediction, cooperative perception. 
+I am currently working toward the M.S. degree with the School of Automotive Studies, Tongji University, Shanghai, China.. I  received the B.S. degree in vehicle engineering from Central South University, Changsha, China, in 2022. My research interests include vehicle motion prediction, cooperative perception, end-to-end autonomous. 
 
